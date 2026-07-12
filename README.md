@@ -1,12 +1,12 @@
 # Hi there, I'm Felix Wasike Mukhandia 👋 
 
-### 🚀 Software Engineer & Full-Stack Developer
+###  Software Engineer & Full-Stack Developer
 
 I am a passionate Software Engineer, Web Developer, and SEO Specialist. I build robust backend architectures, high-performance mobile and web applications, and optimized e-commerce solutions that scale. I bridge the gap between clean code and high-performance digital visibility.
 
 ---
 
-### 🔭 What I'm Up To
+###  What I'm Up To
 - **Currently working on:** Building multi-tenant SaaS platforms, cross-platform mobile apps, and engineering secure, localized payment integrations.
 - **Deep diving into:** Advanced CI/CD deployment workflows, cloud-native architectures, and server/database performance optimization.
 - **Looking to collaborate on:** Open-source Laravel/Next.js projects, custom plugin ecosystems, and scalable cloud-first systems.
@@ -14,7 +14,7 @@ I am a passionate Software Engineer, Web Developer, and SEO Specialist. I build 
 
 ---
 
-### 🛠️ My Tech Stack
+###  My Tech Stack
 
 #### 💻 Languages & Frameworks
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
